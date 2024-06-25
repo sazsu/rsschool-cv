@@ -19,7 +19,7 @@ I am a high school student with a passion for programming and technology. I star
 - Git & GitHub
 - Notion
 
-# Code Example
+## Code Example
 
 ```javascript
 function nbYear(p0, percent, aug, p) {
