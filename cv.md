@@ -31,3 +31,9 @@ function nbYear(p0, percent, aug, p) {
   return years;
 }
 ```
+
+## Education
+
+- Python programming basics at Yandex Lyceum (Graduated with honors)
+- JavaScript Manual on learnjavascript.ru (in progress)
+- JS / Front-end Pre-school RU at RS School (in progress)
