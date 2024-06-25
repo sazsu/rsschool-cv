@@ -37,3 +37,7 @@ function nbYear(p0, percent, aug, p) {
 - Python programming basics at Yandex Lyceum (Graduated with honors)
 - JavaScript Manual on learnjavascript.ru (In progress)
 - JS / Front-end Pre-school RU at RS School (In progress)
+
+## English Level
+
+- Upper-Intermediate (B2)
