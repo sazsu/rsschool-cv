@@ -17,6 +17,8 @@ html {
 
 .navbar li {
   display: inline;
+}
+.margin-r {
   margin-right: 9rem;
 }
 
