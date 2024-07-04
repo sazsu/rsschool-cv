@@ -37,7 +37,6 @@ html {
 header {
   display: flex;
   margin-top: 5rem;
-  justify-content: center;
 }
 
 #greeting {
@@ -51,6 +50,17 @@ h1 {
 
 h2 {
   font-size: 3.2rem;
+}
+
+.section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  margin: 0 auto;
+  width: calc(0.5 * 100vw);
 }
 
 code {
