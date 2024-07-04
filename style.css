@@ -17,11 +17,15 @@ html {
 
 .navbar li {
   display: inline;
-  margin-right: 1.5rem;
+  margin-right: 9rem;
 }
 
 .navbar li a {
   text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-variant: small-caps;
+  color: #163541;
 }
 
 .navbar li a:visited {
