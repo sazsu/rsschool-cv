@@ -45,10 +45,14 @@ header {
   margin-right: 2rem;
 }
 
-#greeting h3 {
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
   font-size: 3.2rem;
 }
 
-h1 {
-  font-size: 5rem;
+code {
+  white-space: pre;
 }
