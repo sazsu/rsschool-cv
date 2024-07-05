@@ -103,3 +103,23 @@ code {
 main li {
   list-style-image: url(square.svg);
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+}
+
+footer ul {
+  display: flex;
+  list-style-type: none;
+}
+
+footer li {
+  display: inline;
+}
+
+.footer-margin-r {
+  margin-right: 18rem;
+}
