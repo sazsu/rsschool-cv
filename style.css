@@ -101,7 +101,7 @@ code {
 }
 
 main li {
-  list-style-image: url(square.svg);
+  list-style-image: url(assets/square.svg);
 }
 
 footer {
