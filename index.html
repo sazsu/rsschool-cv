@@ -7,15 +7,15 @@
     <title>Document</title>
   </head>
   <body>
+    <nav class="navbar">
+      <ul>
+        <li class="margin-r"><a href="#contacts">contacts</a></li>
+        <li class="margin-r"><a href="#about">about</a></li>
+        <li class="margin-r"><a href="#skills">skills</a></li>
+        <li><a href="#education">education</a></li>
+      </ul>
+    </nav>
     <main>
-      <nav class="navbar">
-        <ul>
-          <li class="margin-r"><a href="#contacts">contacts</a></li>
-          <li class="margin-r"><a href="#about">about</a></li>
-          <li class="margin-r"><a href="#skills">skills</a></li>
-          <li><a href="#education">education</a></li>
-        </ul>
-      </nav>
       <header>
         <section id="greeting">
           <h2><span class="cian">Hello</span>,</h2>
@@ -53,7 +53,7 @@
         <code>
           <span class="cian">function</span> <span class="turq">nbYear</span>(p0, percent, aug, p) {
             <span class="cian">let</span> years = 0;
-            <span class="pink">while</span> (p0 < p) {
+            <span class="pink">while</span> (p0 &lt; p) {
               p0 += Math.<span class="turq">floor</span>((p0 * percent) / 100) + aug;
               years++;
             }
